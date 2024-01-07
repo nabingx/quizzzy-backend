@@ -32,7 +32,7 @@ s2v_old
 *.onnx
 
 # api keys
-serviceAccountKey.json
+# serviceAccountKey.json
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
